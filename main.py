@@ -46,7 +46,6 @@ print("\nSa jõudsid koridori.")
 print("Kuskilt tuleb koristaja!")
 #enemy HP
 enemy_hp = 15 
-print("Mäng käivitub")
 
 while enemy_hp > 0 and hp > 0:
 
